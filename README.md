@@ -1,7 +1,7 @@
 # 10Bit Potentiometric DAC
 The aim of this project is to design a 10 Bit Potentiometric Digital to Analog Converter with 3.3V analog voltage, 1.8V digital voltage and 1 Off chip external voltage reference by using the sky130 technology.
 # Introduction
-A Digital an Analog Converter (DAC) converts a digital input signal into an analog signal.The digital signal is represented with binary codes combination of bits 0 and 1
+A Digital to Analog Converter (DAC) converts a digital input signal into an analog signal.The digital signal is represented with binary codes combination of bits 0 and 1
 
 
 
