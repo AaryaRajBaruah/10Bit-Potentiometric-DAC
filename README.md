@@ -97,7 +97,7 @@ Result transient analysis is shown below
 To obtain simulation outputs upto 10-Bit DAC
 
 # Contributors
-- Aarya Raj Baruah ( BTech Electronics and Communication Engineering, North Eastern Hill University Shillong)
+- Aarya Raj Baruah ( BTech Electronics and Communication Engineering, North Eastern Hill University, Shillong)
 
 # Reference 
 - Github
