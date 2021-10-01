@@ -93,3 +93,6 @@ Result transient analysis is shown below
 
 ![4bit ouitput](https://user-images.githubusercontent.com/91695207/135667631-3e3e57be-fb87-47af-b94b-9abace972584.png)
 
+# Future Work
+To obtain simulation output for 10_Bit DAC
+
