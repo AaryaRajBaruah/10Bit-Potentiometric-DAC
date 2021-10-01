@@ -62,4 +62,9 @@ this 3
 Initial transient
 ![3bit initial](https://user-images.githubusercontent.com/91695207/135644833-b14c0a7c-06b0-4bc9-b50c-aabd3dc6103e.png)
 
+result
+
+
+![3bit output](https://user-images.githubusercontent.com/91695207/135646067-aa4461c0-0040-44d9-95ad-af4ffc31f763.png)
+
 
