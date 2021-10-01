@@ -19,7 +19,9 @@ A Digital to Analog Converter (DAC) converts a digital input signal into an anal
 
 # Pre Layout Design and Stimulation
 The tools used in this stimulation are:
-  esim, pgspice and sky130
+- esim
+- pgspice
+- sky130
       
 # Switch
 This switch cirtuit was design using esim. Schematic of the switch circuit is shown below
@@ -37,7 +39,7 @@ Result Transient analysis is shown below
 
 
 # 2-Bit DAC
-This 2 Bit DAC Circuit was design using esim .  Schematic of the 2 Bit DAC is sshown below
+This 2 Bit DAC Circuit was design using esim .  Schematic of the 2-Bit DAC is sshown below
 
 ![2bit](https://user-images.githubusercontent.com/91695207/135616348-90096ddc-b37e-4f99-813e-12200c9383c8.png)
 ![2bit_DAC_A](https://user-images.githubusercontent.com/91695207/135530642-d72cdb4c-1b25-4428-a0bb-97ccf9ca67cb.png)
@@ -53,18 +55,41 @@ Result transient analysis is shown below
 ![2bit output](https://user-images.githubusercontent.com/91695207/135616389-8782ba56-1b99-41f1-8155-1b447f0d04be.png)
 
 # 3-Bit DAC
-this 3
+This 3-Bit DAC Circuit was design using esim. Schematic of the 3-Bit DAC is shown below
 
 
 ![3bit](https://user-images.githubusercontent.com/91695207/135644505-e2f6f8cb-257f-4e05-8dee-fe2832e0abdb.png)
 ![3 bit scham](https://user-images.githubusercontent.com/91695207/135644446-30dc559d-1747-42df-8d4c-d33f64d44dd2.png)
 
-Initial transient
+Initial transient solution of 3-Bit DAC circuit by using pgspice is shown below
+
 ![3bit initial](https://user-images.githubusercontent.com/91695207/135644833-b14c0a7c-06b0-4bc9-b50c-aabd3dc6103e.png)
 
-result
 
+Result transient analysis is shown below
 
 ![3bit output](https://user-images.githubusercontent.com/91695207/135646067-aa4461c0-0040-44d9-95ad-af4ffc31f763.png)
 
+# 4-Bit DAC
+This 4-Bit DAC circuit is design using esim . Schematic of the 4-Bit DAC is shown below
+
+
+![4 bit](https://user-images.githubusercontent.com/91695207/135667714-7181f219-1a46-4440-8d93-806abb91f23a.png)
+![4 bit sch](https://user-images.githubusercontent.com/91695207/135667691-8e5c43f6-4f10-49bb-8ecb-d759498c35f2.png)
+
+
+
+
+Initial transcient solution is shown below
+
+
+![4 bit initial](https://user-images.githubusercontent.com/91695207/135667655-00961884-832b-45ba-bf4d-4efc2d5336d7.png)
+
+
+
+
+
+Result transient analysis is shown below
+
+![4bit ouitput](https://user-images.githubusercontent.com/91695207/135667631-3e3e57be-fb87-47af-b94b-9abace972584.png)
 
