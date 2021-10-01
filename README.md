@@ -36,7 +36,7 @@ Result Transient analysis is shown below
 ![switch](https://user-images.githubusercontent.com/91695207/135615926-bbc95419-a63b-407c-8b47-30ea61c58650.png)
 
 
-# 2 Bit DAC
+# 2-Bit DAC
 This 2 Bit DAC Circuit was design using esim .  Schematic of the 2 Bit DAC is sshown below
 
 ![2bit](https://user-images.githubusercontent.com/91695207/135616348-90096ddc-b37e-4f99-813e-12200c9383c8.png)
@@ -51,4 +51,15 @@ This 2 Bit DAC Circuit was design using esim .  Schematic of the 2 Bit DAC is ss
 Result transient analysis is shown below
 
 ![2bit output](https://user-images.githubusercontent.com/91695207/135616389-8782ba56-1b99-41f1-8155-1b447f0d04be.png)
+
+# 3-Bit DAC
+this 3
+
+
+![3bit](https://user-images.githubusercontent.com/91695207/135644505-e2f6f8cb-257f-4e05-8dee-fe2832e0abdb.png)
+![3 bit scham](https://user-images.githubusercontent.com/91695207/135644446-30dc559d-1747-42df-8d4c-d33f64d44dd2.png)
+
+Initial transient
+![3bit initial](https://user-images.githubusercontent.com/91695207/135644833-b14c0a7c-06b0-4bc9-b50c-aabd3dc6103e.png)
+
 
