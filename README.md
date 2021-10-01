@@ -18,8 +18,8 @@ A Digital to Analog Converter (DAC) converts a digital input signal into an anal
 
 
 # Pre Layout Design and Stimulation
-The tools used in this stimulation are-
-
+The tools used in this stimulation are:
+  esim, pgspice and sky130
       
 # Switch
 This switch cirtuit was design using esim. Schematic of the switch circuit is shown below
